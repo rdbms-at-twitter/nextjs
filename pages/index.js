@@ -34,7 +34,7 @@ export default function Home({ allPostsData }) {
       <title>{site_title}</title>
     </Head>
     <section className={utilStyles.headingMd}>
-    <p><a href='https://variable.jp'>test</a></p>
+    <p><a href='https://variable.jp'>RDBMS関連はこちら</a></p>
     </section>
   
   <section className={`${utilStyles.headingMd} ${utilStyles.padding1px}`}>
