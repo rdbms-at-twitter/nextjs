@@ -6,8 +6,8 @@ import Link from "next/link";
 
 /*** import { Children } from "react"; ***/
 
-const title_name = "Sample Next.js";
-export const site_title = "Next.js Trial";
+const title_name = "tabi.studio";
+export const site_title = "[tabi.studio] Travel in Japna";
 
 function Layout({ children, home }) {
     return (

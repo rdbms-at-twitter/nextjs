@@ -38,7 +38,7 @@ export default function Home({ allPostsData }) {
     </section>
   
   <section className={`${utilStyles.headingMd} ${utilStyles.padding1px}`}>
-    <h2>📝Next.jsのテスト</h2>
+    <h2>📝Travel in Japan</h2>
   <div className={styles.grid}>
     {allPostsData.map(({id,title,date,thumbnail})  => (
     // Map関数でデータを紐づける。
